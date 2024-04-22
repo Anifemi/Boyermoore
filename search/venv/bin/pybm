@@ -1,0 +1,7 @@
+#!/home/search/venv/bin/python3
+
+import sys
+import pybm.pyBM
+
+if __name__ == '__main__':
+    sys.exit(pybm.pyBM.main(sys.argv))
